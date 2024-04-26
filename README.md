@@ -3,7 +3,6 @@
 - 👩🏻‍💼 I’m interested in Data Analytics, Data Scientist , Data Engineer and Business Analytics
 - I’m looking to collaborate on Data Analytics related Projects or Research
 - 📫 How to reach me simranasinha@gmail.com
-- 😄 Pronouns: She/her
 
 
 <!---
