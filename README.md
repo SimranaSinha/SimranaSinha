@@ -3,7 +3,7 @@
 - 👩🏻‍💼 I’m interested in Data Analytics, Data Scientist , Data Engineer and Business Analytics
 - I’m looking to collaborate on Data Analytics related Projects or Research
 - 📫 How to reach me simranasinha24@gmail.com
-
+scc
 
 <!---
 SimranaSinha/SimranaSinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
