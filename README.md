@@ -1,3 +1,13 @@
+![image](https://github.com/user-attachments/assets/6b5dafd2-2579-467c-8b0a-af09c94cd7e5)
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @SimranaSinha
 - 🏫 I’m a Graduate student at Northeastern University 
 - 👩🏻‍💼 I’m interested in Data Analytics, Data Scientist , Data Engineer and Business Analytics
