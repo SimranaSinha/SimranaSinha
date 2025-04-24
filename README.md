@@ -4,6 +4,7 @@
 - 🏫 I’m a Graduate student at Northeastern University 
 - 👩🏻‍💼 I’m interested in Data Analytics, Data Scientist , Data Engineer and Business Analytics
 - I’m looking to collaborate on Data Analytics related Projects or Research
+- Proficient in Python, Excel,  Power BI, Tablueau, SQL, R 
 - 📫 How to reach me simranasinha24@gmail.com
 
 
