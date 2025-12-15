@@ -37,7 +37,6 @@ Here are some of the repositories I’m most proud of — you can **pin** them o
 - **📌 Masters-Project-FDA** – ML & clustering based experiments on sensor & network data  
 - **📌 Airways_Insights** – Data analysis & Tableau dashboards for operational insights  
 - **📌 Story_telling_data_anlytics** – Data storytelling using multiple analytics tools
-*(Feel free to add descriptions or swap in your favorite projects!)*
 
 ---
 
