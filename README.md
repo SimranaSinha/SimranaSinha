@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Simran Abhay Sinha
 
 🔭 I’m currently pursuing my **Master’s in Data Analytics** at **Northeastern University**.
+
 📍 Based in **Boston** 
+
 ✨ Passionate about using data to solve real‑world problems and build impactful solutions.
 
 ---
