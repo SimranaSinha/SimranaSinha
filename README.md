@@ -11,7 +11,9 @@
 I enjoy exploring data and building **data‑driven applications**, **visualizations**, and **insights**. My interests include:
 
 💡 **Data Analytics | Data Science | Business Analytics | Data Engineering**
+
 🛠️ Proficient in **Python, SQL, Tableau, Power BI, R, Excel**
+
 📈 I love transforming raw data into actionable insights, automating workflows, and creating dashboards that tell stories.
 
 ---
