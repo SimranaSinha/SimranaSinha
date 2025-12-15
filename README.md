@@ -38,7 +38,6 @@ I enjoy exploring data and building **data‑driven applications**, **visualizat
 * **📌 Story_telling_data_anlytics** – Data storytelling using multiple analytics tools
 * **📌 Netflix_Data_Analysis** – Exploratory data analysis and visualizations on Netflix movies & TV shows, uncovering trends in genres, ratings, release years, and content distribution using Python & Tableau
 
-*(Feel free to add descriptions or swap in your favorite projects!)*
 
 ---
 
