@@ -36,9 +36,7 @@ Here are some of the repositories I’m most proud of — you can **pin** them o
 - **📌 Masters_Computation-and-Visualization** – Portfolio of urban metrics and data visualization projects  
 - **📌 Masters-Project-FDA** – ML & clustering based experiments on sensor & network data  
 - **📌 Airways_Insights** – Data analysis & Tableau dashboards for operational insights  
-- **📌 Story_telling_data_anlytics** – Data storytelling using multiple analytics tools
 - **📌 Netflix_Data_Analysis – Exploratory data analysis and visualizations on Netflix movies & TV shows, uncovering trends in genres, ratings, release years, and content distribution using Python & Tableau
-
 ---
 
 ## 📫 How to Reach Me
