@@ -26,6 +26,7 @@ I enjoy exploring data and building **data‑driven applications**, **visualizat
 * **Data Manipulation & Analysis:** Pandas, NumPy
 * **Database:** MySQL, NoSQL
 * **Other Tools:** Git, Jupyter Notebooks, Excel, VBA
+* **Cloud Technologies:** AWS (S3 for data storage, Lambda for automation, IAM for security)
 
 ---
 
