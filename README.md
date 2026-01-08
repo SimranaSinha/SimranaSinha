@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently pursuing my **Master’s in Data Analytics** at **Northeastern University**.
 - 📍 Based in **Boston**
-- 🚀 Ex-Data Science Lead at Crewasis.ai
+- 🚀 Ex-Data Science Lead at **Crewasis.ai**
 - ✨ Passionate about using data to solve real‑world problems and build impactful solutions.
 
 ---
