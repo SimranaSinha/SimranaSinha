@@ -1,7 +1,8 @@
 # Hi, I’m Simran Abhay Sinha
 
 - 🔭 I’m currently pursuing my **Master’s in Data Analytics** at **Northeastern University**.
-- 📍 Based in **Boston** 
+- 📍 Based in **Boston**
+- 🚀 Ex-Data Science Lead at Crewasis.ai
 - ✨ Passionate about using data to solve real‑world problems and build impactful solutions.
 
 ---
