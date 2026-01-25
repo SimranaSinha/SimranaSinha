@@ -8,14 +8,10 @@
 ---
 
 ## 💼 About Me
-
-I enjoy exploring data and building **data‑driven applications**, **visualizations**, and **insights**. My interests include:
-
-💡 **Data Analytics | Data Science | Business Analytics | Data Engineering**
-
-🛠️ Proficient in **Python, SQL, Tableau, Power BI, R, Excel**
-
-📈 I love transforming raw data into actionable insights, automating workflows, and creating dashboards that tell stories.
+- I enjoy exploring data and building **data‑driven applications**, **visualizations**, and **insights**. My interests include:
+- 💡 **Data Analytics | Data Science | Business Analytics | Data Engineering**
+- 🛠️ Proficient in **Python, SQL, Tableau, Power BI, R, Excel**
+- 📈 I love transforming raw data into actionable insights, automating workflows, and creating dashboards that tell stories.
 
 ---
 
@@ -32,16 +28,19 @@ I enjoy exploring data and building **data‑driven applications**, **visualizat
 
 ## 🔭 Featured Projects
 
-### 📊 Data Projects
-
 * **📌 VitalSign_HealthManager** – A healthcare data management system integrating different databases with Python
 * **📌 Structured-Data-Analytics** – Structured data workflows using Excel, Tableau, R & Python
-* **📌 Masters_Computation-and-Visualization** – Portfolio of urban metrics and data visualization projects
 * **📌 Masters-Project-FDA** – ML & clustering based experiments on sensor & network data
 * **📌 Airways_Insights** – Data analysis & Tableau dashboards for operational insights
-* **📌 Story_telling_data_anlytics** – Data storytelling using multiple analytics tools
 * **📌 Netflix_Data_Analysis** – Exploratory data analysis and visualizations on Netflix movies & TV shows, uncovering trends in genres, ratings, release years, and content distribution using Python & Tableau
 
+---
+
+## Experience
+🚀 Data Science Lead — Crewasis
+- 📊 Drove data analysis and modeling for consumer and market insights
+- 🤖 Built and evaluated ML models and analytical pipelines
+- 🤝 Worked with product and research teams to deliver actionable insights
 
 ---
 
