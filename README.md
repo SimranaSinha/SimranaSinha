@@ -48,8 +48,7 @@
 
 - I maintain a separate repository containing my academic, technical, and professional certificates.
 
-🔗 **Certificates Repository:**  
-https://github.com/SimranaSinha/Certificates
+🔗 **Certificates Repository:** https://github.com/SimranaSinha/Certificates
 
 This includes certifications related to data analytics, data science, machine learning, and other relevant coursework and training.
 
