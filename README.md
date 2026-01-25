@@ -7,7 +7,7 @@
 
 ---
 
-## 💼 About Me
+## 🔹 About Me
 - I enjoy exploring data and building **data‑driven applications**, **visualizations**, and **insights**. My interests include:
 - 💡 **Data Analytics | Data Science | Business Analytics | Data Engineering**
 - 🛠️ Proficient in **Python, SQL, Tableau, Power BI, R, Excel**
@@ -36,7 +36,7 @@
 
 ---
 
-## Experience
+## 💼 Experience
 🚀 Data Science Lead — Crewasis
 - 📊 Drove data analysis and modeling for consumer and market insights
 - 🤖 Built and evaluated ML models and analytical pipelines
