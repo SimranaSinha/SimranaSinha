@@ -17,13 +17,14 @@
 
 ## 🚀 Skills & Tools
 
-* ●	Visualization: Tableau, Power BI, Flourish, Datawrapper
-* ●	Programming Languages: SQL, Python, R programming
-* ●	Data and Machine Learning Libraries: Pandas, NumPy, Matplotlib, SciPy, Seaborn, Scikit-Learn
-* ●	Databases: MySQL, PostgreSQL, MongoDB, NoSQL
-* ●	Data Concepts: Data Modeling, ETL, Predictive Analytics, Machine Learning, Statistical Analysis
-* ●	Software and Tools: AutoCAD, PyCharm, GitHub, JIRA, VS Code, Microsoft Excel, PowerPoint, Google Site, Streamlit
-* ●	Cloud Technologies: AWS (S3, IAM, Bedrock, SageMaker, Lambda)
+* Visualization: Tableau, Power BI, Flourish, Datawrapper
+* Programming Languages: SQL, Python, R programming
+* Data and Machine Learning Libraries: Pandas, NumPy, Matplotlib, SciPy, Seaborn, Scikit-Learn
+* Databases: MySQL, PostgreSQL, MongoDB, NoSQL
+* Data Concepts: Data Modeling, ETL, Predictive Analytics, Machine Learning, Statistical Analysis
+* Software and Tools: AutoCAD, PyCharm, GitHub, JIRA, VS Code, Microsoft Excel, PowerPoint, Google Site, Streamlit
+* Cloud Technologies: AWS (S3, IAM, Bedrock, SageMaker, Lambda)
+  
 ---
 
 ## 🔭 Featured Projects
