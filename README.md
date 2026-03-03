@@ -17,8 +17,9 @@
 
 ## 🚀 Skills & Tools
 
-* Visualization: Tableau, Power BI, Flourish, Datawrapper
 * Programming Languages: SQL, Python, R programming
+* * Visualization: Tableau, Power BI, Flourish, Datawrapper
+
 * Data and Machine Learning Libraries: Pandas, NumPy, Matplotlib, SciPy, Seaborn, Scikit-Learn
 * Databases: MySQL, PostgreSQL, MongoDB, NoSQL
 * Data Concepts: Data Modeling, ETL, Predictive Analytics, Machine Learning, Statistical Analysis
