@@ -30,9 +30,9 @@
 ## 🔭 Featured Projects
 
 * **📌 VitalSign_HealthManager** – A healthcare data management system integrating different databases with Python
+* * **📌 Airways_Insights** – Exploratory data analysis and Tableau dashboards on airline operations, uncovering trends in delays, cancellations, and flight performance using Python and Tableau.
 * **📌 Generative_AI** – Applied generative AI projects covering prompt engineering, LangChain agents, memory architectures, Excel AI integration, and multi-step reasoning systems built with Python and OpenAI APIs
 * **📌 SpotIt_Object_Detection_System** – End-to-end custom single and multi-object detection pipeline using synthetic data generation, YOLOv8 training, and bounding box localization with mAP-based evaluation in Python & PyTorch
-* **📌 Airways_Insights** – Data analysis & Tableau dashboards for operational insights
 * **📌 Netflix_Data_Analysis** – Exploratory data analysis and visualizations on Netflix movies & TV shows, uncovering trends in genres, ratings, release years, and content distribution using Python & Tableau
 
 ---
