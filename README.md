@@ -16,7 +16,6 @@
 ---
 
 ## 🚀 Skills & Tools
-
 * Programming Languages: SQL, Python, R programming
 * Visualization: Tableau, Power BI, Flourish, Datawrapper
 * Data and Machine Learning Libraries: Pandas, NumPy, Matplotlib, SciPy, Seaborn, Scikit-Learn
@@ -33,6 +32,7 @@
 - 🤖 Built and evaluated ML models and analytical pipelines
 - 🤝 Worked with product and research teams to deliver actionable insights---
 
+---
 ## 🔭 Featured Projects
 
 * **📌 VitalSign_HealthManager** – A healthcare data management system integrating different databases with Python
@@ -44,7 +44,6 @@
 ---
 
 ## 📜 Certifications
-
 - I maintain a separate repository containing my academic, technical, and professional certificates.
 
 🔗 **Certificates Repository:** https://github.com/SimranaSinha/Certificates
