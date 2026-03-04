@@ -27,6 +27,12 @@
   
 ---
 
+## 💼 Experience
+🚀 Data Science Lead - Crewasis (New York, USA)
+- 📊 Drove data analysis and modeling for consumer and market insights
+- 🤖 Built and evaluated ML models and analytical pipelines
+- 🤝 Worked with product and research teams to deliver actionable insights---
+
 ## 🔭 Featured Projects
 
 * **📌 VitalSign_HealthManager** – A healthcare data management system integrating different databases with Python
