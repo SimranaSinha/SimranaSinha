@@ -34,7 +34,6 @@
 
 ---
 ## 🔭 Featured Projects
-
 * **📌 VitalSign_HealthManager** – A healthcare data management system integrating different databases with Python
 * * **📌 Airways_Insights** – Exploratory data analysis and Tableau dashboards on airline operations, uncovering trends in delays, cancellations, and flight performance using Python and Tableau.
 * **📌 Generative_AI** – Applied generative AI projects covering prompt engineering, LangChain agents, memory architectures, Excel AI integration, and multi-step reasoning systems built with Python and OpenAI APIs
@@ -53,7 +52,6 @@ This includes certifications related to data analytics, data science, machine le
 ---
 
 ## 📫 How to Reach Me
-
 * 📧 Email: **[simranasinha24@gmail.com](mailto:simranasinha24@gmail.com)**
 * 🔗 LinkedIn: [https://www.linkedin.com/in/simranasinha/](https://www.linkedin.com/in/simranasinha/)
 * 📊 Tableau Public: [https://public.tableau.com/app/profile/simran.abhay.sinha](https://public.tableau.com/app/profile/simran.abhay.sinha)
