@@ -37,14 +37,6 @@
 
 ---
 
-## 💼 Experience
-🚀 Data Science Lead - Crewasis (New York, USA)
-- 📊 Drove data analysis and modeling for consumer and market insights
-- 🤖 Built and evaluated ML models and analytical pipelines
-- 🤝 Worked with product and research teams to deliver actionable insights
-
----
-
 ## 📜 Certifications
 
 - I maintain a separate repository containing my academic, technical, and professional certificates.
