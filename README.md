@@ -56,6 +56,7 @@ This includes certifications related to data analytics, data science, machine le
 * 🔗 LinkedIn: [https://www.linkedin.com/in/simranasinha/](https://www.linkedin.com/in/simranasinha/)
 * 📊 Tableau Public: [https://public.tableau.com/app/profile/simran.abhay.sinha](https://public.tableau.com/app/profile/simran.abhay.sinha)
 * 🌐 Portfolio: [https://simranasinha.github.io/](https://simranasinha.github.io/)
+* 🐱 Kaggle: [https://www.kaggle.com/simivk18](https://www.kaggle.com/simivk18)
 
 ---
 
