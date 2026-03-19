@@ -58,5 +58,10 @@ This includes certifications related to data analytics, data science, machine le
 * 🌐 Portfolio: [https://simranasinha.github.io/](https://simranasinha.github.io/)
 * 🐱 Kaggle: [https://www.kaggle.com/simivk18](https://www.kaggle.com/simivk18)
 
+---
+
+✨ I’m open to **collaborations, internships, and research opportunities** in analytics and data science.
+💬 Let’s connect and build something exciting!
+
 
 
