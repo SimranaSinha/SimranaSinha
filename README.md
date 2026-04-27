@@ -1,44 +1,50 @@
 # Hi, I’m Simran Abhay Sinha
 
-- 🔭 I’m currently pursuing my **Master’s in Data Analytics** at **Northeastern University**.
-- 📍 Based in **Boston**
-- 🚀 Ex-Data Science Lead at **Crewasis.ai**
-- ✨ Passionate about using data to solve real‑world problems and build impactful solutions.
+🎓 MS in Data Analytics Engineering @ Northeastern University (Boston)  
+💼 Ex-Data Science Lead @ Crewasis  
+📊 Passionate about building data-driven systems that solve real-world business problems  
 
 ---
 
-## 🔹 About Me
-- I enjoy exploring data and building **data‑driven applications**, **visualizations**, and **insights**.
-- 💡 My interests include:**Data Analytics | Data Science | Business Analytics | Data Engineering**
-- 🛠️ Proficient in **Python, SQL, Tableau, Power BI, R, Excel**
-- 📈 I love transforming raw data into actionable insights, automating workflows, and creating dashboards that tell stories.
+## 🚀 What I Do
+- Build **end-to-end data & ML systems** (from data → insights → deployment)
+- Design **interactive dashboards** that drive decision-making
+- Develop **AI-powered applications** using LLMs, RAG, and semantic search
+- Work at the intersection of **analytics, product, and engineering**
 
 ---
 
-## 🚀 Skills & Tools
-* Programming Languages: SQL, Python, R programming
-* Visualization: Tableau, Power BI, Flourish, Datawrapper
-* Data and Machine Learning Libraries: Pandas, NumPy, Matplotlib, SciPy, Seaborn, Scikit-Learn
-* Databases: MySQL, PostgreSQL, MongoDB, NoSQL
-* Data Concepts: Data Modeling, ETL, Predictive Analytics, Machine Learning, Statistical Analysis
-* Software and Tools: AutoCAD, PyCharm, GitHub, JIRA, VS Code, Microsoft Excel, PowerPoint, Google Site, Streamlit
-* Cloud Technologies: AWS (S3, IAM, Bedrock, SageMaker, Lambda)
-  
----
-
-## 💼 Experience
-🚀 Data Science Lead - Crewasis (New York, USA)
-- 📊 Drove data analysis and modeling for consumer and market insights
-- 🤖 Built and evaluated ML models and analytical pipelines
-- 🤝 Worked with product and research teams to deliver actionable insights---
+## 💡 Featured Work
+- 🔍 **SpotIt** – Multi-object detection system using YOLOv8 (CV + Deep Learning)
+- ✈️ **Budget Travel Scout** – AI-powered itinerary planner with constraint optimization
+- 📈 **Financial Analytics** – Revenue forecasting, churn prediction & customer segmentation
+- 🏥 **VitalSign Health Manager** – Hybrid SQL/NoSQL healthcare data system
+- 📊 **Airways Insights** – Tableau dashboards for airline operations analysis
 
 ---
-## 🔭 Featured Projects
-* **📌 VitalSign_HealthManager** – A healthcare data management system integrating different databases with Python
-* **📌 Airways_Insights** – Exploratory data analysis and Tableau dashboards on airline operations, uncovering trends in delays, cancellations, and flight performance using Python and Tableau.
-* **📌 Generative_AI** – Applied generative AI projects covering prompt engineering, LangChain agents, memory architectures, Excel AI integration, and multi-step reasoning systems built with Python and OpenAI APIs
-* **📌 SpotIt_Object_Detection_System** – End-to-end custom single and multi-object detection pipeline using synthetic data generation, YOLOv8 training, and bounding box localization with mAP-based evaluation in Python & PyTorch
-* **📌 Netflix_Data_Analysis** – Exploratory data analysis and visualizations on Netflix movies & TV shows, uncovering trends in genres, ratings, release years, and content distribution using Python & Tableau
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL, R  
+**Analytics & Viz:** Tableau, Power BI, Excel  
+**ML/AI:** scikit-learn, NLP, Deep Learning, LLMs, RAG  
+**Cloud & Tools:** AWS (S3, SageMaker), Streamlit, Git  
+
+---
+
+## 📊 What Sets Me Apart
+- Strong focus on **business impact**, not just models  
+- Experience delivering insights across **10+ global projects**  
+- Built systems improving reporting speed by **30–40%**  
+- Blend of **analytics + engineering + product thinking**
+
+---
+
+## 🌐 Connect With Me
+* 📧 Email: [simranasinha24@gmail.com](mailto:simranasinha24@gmail.com)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/simranasinha/](https://www.linkedin.com/in/simranasinha/)
+* 📊 Tableau Public: [https://public.tableau.com/app/profile/simran.abhay.sinha](https://public.tableau.com/app/profile/simran.abhay.sinha)
+* 🌐 Portfolio: [https://simranasinha.github.io/](https://simranasinha.github.io/)
+* 🐱 Kaggle: [https://www.kaggle.com/simivk18](https://www.kaggle.com/simivk18)
 
 ---
 
@@ -52,18 +58,5 @@ This includes certifications related to data analytics, data science, machine le
 
 ---
 
-## 📫 How to Reach Me
-* 📧 Email: [simranasinha24@gmail.com](mailto:simranasinha24@gmail.com)
-* 🔗 LinkedIn: [https://www.linkedin.com/in/simranasinha/](https://www.linkedin.com/in/simranasinha/)
-* 📊 Tableau Public: [https://public.tableau.com/app/profile/simran.abhay.sinha](https://public.tableau.com/app/profile/simran.abhay.sinha)
-* 🌐 Portfolio: [https://simranasinha.github.io/](https://simranasinha.github.io/)
-* 🐱 Kaggle: [https://www.kaggle.com/simivk18](https://www.kaggle.com/simivk18)
-
----
-
-✨ I’m open to **collaborations, internships, and research opportunities** in analytics and data science.
-💬 Let’s connect and build something exciting!
-
-
-
+⭐ *Open to Data Analyst / Data Scientist roles starting May 2026*
 
