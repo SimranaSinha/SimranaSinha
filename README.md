@@ -14,15 +14,6 @@
 
 ---
 
-## 💡 Featured Work
-- 🔍 **SpotIt** – Multi-object detection system using YOLOv8 (CV + Deep Learning)
-- ✈️ **Budget Travel Scout** – AI-powered itinerary planner with constraint optimization
-- 📈 **Financial Analytics** – Revenue forecasting, churn prediction & customer segmentation
-- 🏥 **VitalSign Health Manager** – Hybrid SQL/NoSQL healthcare data system
-- 📊 **Airways Insights** – Tableau dashboards for airline operations analysis
-
----
-
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, R  
 **Analytics & Viz:** Tableau, Power BI, Excel  
