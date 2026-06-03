@@ -49,7 +49,6 @@ This includes certifications related to data analytics, data science, machine le
 
 ---
 
-⭐ *Open to Data Analyst / Data Scientist roles starting May 2026*
-
+⭐ *Open to Data Analyst / Data Scientist roles 
 
 
