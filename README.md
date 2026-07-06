@@ -1,7 +1,7 @@
 # Hi, I’m Simran Abhay Sinha
 
-🎓 MS in Data Analytics Engineering @Northeastern University (Boston)  
 💼 Data Science Lead @Crewasis  
+🎓 Graduated from MS in Data Analytics Engineering @Northeastern University (Boston)  
 📊 Passionate about building data-driven systems that solve real-world business problems  
 
 ---
