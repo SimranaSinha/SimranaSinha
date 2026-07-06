@@ -49,6 +49,6 @@ This includes certifications related to data analytics, data science, machine le
 
 ---
 
-⭐ *Open to Data Analyst / Data Scientist roles 
+⭐ Open to Data Analyst / Data Scientist roles 
 
 
