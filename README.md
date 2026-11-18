@@ -47,9 +47,6 @@ https://github.com/SimranaSinha/Certificates
 
 This includes certifications related to data analytics, data science, machine learning, and other relevant coursework and training.
 
----
-
-⭐ Open to Data Analyst / Data Scientist roles 
 
 
 
